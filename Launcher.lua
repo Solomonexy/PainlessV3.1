@@ -23,7 +23,7 @@ if qNVAKkuwxNpqruLjSRHg == true then
  print("Check 2 Passed!")
  wait(.5)
  print("Launching Peak Client!")
- loadstring(game:HttpGet('https://raw.githubusercontent.com/Solomonexy/Painless-V3/main/Premium.lua'))()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/Solomonexy/PainlessV3.1/main/Loader.lua'))()
 else
     print("Not verified!")
 end
